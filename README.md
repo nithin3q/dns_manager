@@ -17,13 +17,7 @@ DNS Manager is a web application designed to provide a central dashboard for aut
 - **API Endpoints**: Backend API endpoints for CRUD operations on DNS records.
 - **Secure Authentication**: Implements secure user authentication and authorization.
 
-## Setup
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/nithin3q/dns_manager.git
-```
 
 ## Setup
 
