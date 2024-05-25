@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const DNSAPIs = axios.create({
-  baseURL: "http://localhost:8080/api/dns",
+  baseURL: "https://dns-manager-khaki.vercel.app/api/dns",
 });
 
 export async function listHostedZones(code) {
